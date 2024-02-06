@@ -293,7 +293,7 @@ main.prev .list .item:nth-child(2) .buttons {
 .time {
   width: 0%;
   height:4px;
-  background-color: #f1683a;
+  background-color: #c420a6;
   position: absolute;
   z-index: 100;
   top: 0;
