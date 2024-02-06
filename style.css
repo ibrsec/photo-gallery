@@ -327,7 +327,7 @@ to{
 .main .list .item .content .buttons {
     display: grid;
     grid-template-columns: repeat(1, 130px);
-    grid-template-rows: 40px;
+    grid-template-rows: 40px 40px;
     gap: 5px;
     margin-top: 20px;
   }
