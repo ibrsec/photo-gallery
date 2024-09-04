@@ -16,7 +16,7 @@
     <a href="https://github.com/ibrsec/photo-gallery"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://ibrsec.github.io/photo-gallery/">View Demo</a>
+    <a href="https://photo-gallery-nu.vercel.app/">View Demo</a>
     ·
     <a href="https://github.com/ibrsec/photo-gallery/issues">Report Bug</a>
     ·
@@ -56,7 +56,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![growth-app](./img/p.gif)](https://ibrsec.github.io/photo-gallery/)
+[![growth-app](./img/p.gif)](https://photo-gallery-nu.vercel.app/)
 
 
 
